@@ -1,0 +1,16 @@
+Loading net-file from 'TlMap/map.net.xml'...  done (28ms).
+Loading additional-files from 'TlMap/map.vtypes.xml'...  done (15ms).
+Loading done.
+***Starting server on port 8820 ***
+Simulation started with time: 0.00
+Error: tcpip::Socket::recvAndCheck @ recv: Socket reset by peer
+Quitting (on error).
+Performance: 
+ Duration: 42590 ms
+ Real time factor: 0.819441
+ UPS: 0.000000
+Vehicles: 
+ Emitted: 0
+ Running: 0
+ Waiting: 0
+

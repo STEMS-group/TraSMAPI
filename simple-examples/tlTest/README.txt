@@ -1,0 +1,1 @@
+Executing Main.java in this folder will start JADE and SUMO. This is a Guilherme Soares example. In this example SUMO will start with a grid map with traffic lights. There is no real simulation there because it just shows traffic lights changing colours. A GUI window appears but it doesn't do anything (it is a non finished work). "Map" is the folder used to get the map.
