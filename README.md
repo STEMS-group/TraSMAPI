@@ -1,5 +1,6 @@
 <center>
-![trasmapi](https://github.com/STEMS-group/repository/blob/master/img/trasmapi_logo.png)
+![trasmapi](https://raw.githubusercontent.com/STEMS-group/trasmapi/master/img/trasmapi_logo.png)
+
 Traffic Simulation Manager Application Programming Interface
 </center>
 
