@@ -1,8 +1,8 @@
-<center>
+<p align="center">
 ![trasmapi](https://raw.githubusercontent.com/STEMS-group/trasmapi/master/img/trasmapi_logo.png)
 
 Traffic Simulation Manager Application Programming Interface
-</center>
+</p>
 
 
 **TraSMAPI** can be seen as a generic API for microscopic traffic that allows real-time communication between agents of urban traffic management (such as vehicles and traffic signals) and the environment created by various simulators. This tool was developed in LIACC (Artificial Intelligence and Computer Science Laboratory), University of Porto.
@@ -14,8 +14,10 @@ Currently, TraSMAPI can be used with [SUMO](https://github.com/STEMS-group/trasm
 ---
 
 
-<center>
+<p align="center">
 [Documentation](#documentation)
+
 [Published papers](#papers)
+
 [Issue tracker](https://github.com/STEMS-group/trasmapi/issues)
-</center>
+</p>
