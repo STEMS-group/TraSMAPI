@@ -1,7 +1,7 @@
 <p align="center">
-![trasmapi](https://raw.githubusercontent.com/STEMS-group/trasmapi/master/img/trasmapi_logo.png)
-
-Traffic Simulation Manager Application Programming Interface
+    <a href="https://github.com/STEMS-group/trasmapi">
+        <img src="https://raw.githubusercontent.com/STEMS-group/trasmapi/master/img/trasmapi_logo.png" alt="trasmapi" />
+    </a>
 </p>
 
 
@@ -13,11 +13,14 @@ Currently, TraSMAPI can be used with [SUMO](https://github.com/STEMS-group/trasm
 
 ---
 
+<p align="center">
+  <a href="https://github.com/STEMS-group/trasmapi">Documentation</a>
+</p>
 
 <p align="center">
-[Documentation](#documentation)
+  <a href="https://github.com/STEMS-group/trasmapi">Published papers</a>
+</p>
 
-[Published papers](#papers)
-
-[Issue tracker](https://github.com/STEMS-group/trasmapi/issues)
+<p align="center">
+  <a href="https://github.com/STEMS-group/trasmapi/issues">Issue tracker</a>
 </p>
