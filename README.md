@@ -5,9 +5,9 @@
 </p>
 
 
-**TraSMAPI** can be seen as a generic API for microscopic traffic that allows real-time communication between agents of urban traffic management (such as vehicles and traffic signals) and the environment created by various simulators. This tool was developed in LIACC (Artificial Intelligence and Computer Science Laboratory), University of Porto.
+**TraSMAPI** is a generic API used as bridge for microscopic traffic simulators that allows real-time communication between agents in the urban traffic context (such as vehicles, traffic lights and pedestrians) and the environment created by  various simulators. This tool was developed at LIACC (Artificial Intelligence and Computer Science Laboratory), University of Porto.
 
-This API offers a higher abstraction level than most of microscopic traffic simulators in such a way that the solution is independent from the microscopic simulator to use.
+This API offers a higher level of abstraction than most microscopic traffic simulators, in such a way that the solution is independent from the simulator in use.
 
 Currently, TraSMAPI can be used with [SUMO](https://github.com/STEMS-group/trasmapi-sumo), [AIMSUN](https://github.com/STEMS-group/trasmapi-aimsun) and [ITSUMO](https://github.com/STEMS-group/trasmapi-itsumo).
 
