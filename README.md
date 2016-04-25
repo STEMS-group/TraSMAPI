@@ -14,11 +14,11 @@ Currently, TraSMAPI can be used with [SUMO](https://github.com/STEMS-group/trasm
 ---
 
 <p align="center">
-  <a href="https://github.com/STEMS-group/trasmapi">Documentation</a>
+  <a href="https://github.com/STEMS-group/trasmapi/wiki">Documentation</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/STEMS-group/trasmapi">Published papers</a>
+  <a href="https://github.com/STEMS-group/trasmapi/wiki#published-papers">Published papers</a>
 </p>
 
 <p align="center">
